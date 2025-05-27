@@ -29,7 +29,7 @@ todo-app/
 
 ### 📸 Preview
 
-![To-Do App Screenshot](https://via.placeholder.com/600x300?text=To-Do+App+Preview)
+![To-Do App Screenshot](Output.jpg)
 
 ---
 
